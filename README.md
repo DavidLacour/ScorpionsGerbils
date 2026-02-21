@@ -151,4 +151,4 @@ Entity interactions use double dispatch (e.g. `eatable()` / `eatableDispatch()`)
 
 ## Credits
 
-Originally developed for the INFOSV CS course (2012-2019) at EPFL 
+Originally developed for the INFOSV CS course at EPFL 
