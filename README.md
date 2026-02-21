@@ -2,7 +2,7 @@
 
 A real-time 2D predator-prey ecosystem simulation built with C++11 and SFML. Scorpions hunt gerbils, gerbils forage for food, and both species reproduce and evolve their populations over time. The simulation includes two modes: a macro-level ecosystem view and a micro-level neuronal sensing model.
 
-![Simulation screenshot](screenshot.png)
+![Simulation screenshot](ScorpionGerbil.png)
 
 ## Prerequisites
 
